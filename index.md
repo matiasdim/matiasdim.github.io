@@ -9,7 +9,7 @@
 📍 Remote - Colombia
 🌐 [LinkedIn](https://linkedin.com/in/matiasgil)  
 🔗 [GitHub](https://github.com/matiasgildev)  
-📧 matias@example.com
+📧 matiasdim3@gmail.com
 
 ---
 
