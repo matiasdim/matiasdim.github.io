@@ -1,5 +1,8 @@
 # Matías Gil
-**Senior iOS Engineer** 📍 Remote | 🌐 [linkedin.com/in/matiasdim](https://www.linkedin.com/in/matiasdim/) | [github.com/matiasdim](https://github.com/matiasdim) 📧 matiadim3@gmail.com
+![Matías Gil](https://media.licdn.com/dms/image/v2/C5603AQGXn0ZHYBOTBg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1607357612206?e=1752105600&v=beta&t=6wWxNcaGwi-jIVqqmil-ItLNYqsd6WcQpkRO7CrizHU)
+**Senior iOS Engineer** 📍 Remote - Colombia
+📧 matiadim3@gmail.com
+🌐 [linkedin.com/in/matiasdim](https://www.linkedin.com/in/matiasdim/)
 
 ---
 
