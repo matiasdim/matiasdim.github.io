@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/styles.css">
+
 ![Matías Gil](/assets/images/profile.jpg)
 
 # Matías Gil
