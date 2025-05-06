@@ -2,15 +2,13 @@
 
 ![Matías Gil](/assets/images/profile.jpg) **Matías Gil – Senior Software Engineer**
 
-📍 Remote - Colombia
+📍 Remote - Colombia  
 🌐 [LinkedIn](https://linkedin.com/in/matiasgil)  
 🔗 [GitHub](https://github.com/matiasgildev)  
-📧 matiasdim3@gmail.com
-
-
-
-
-
+📧 matiasdim3@gmail.com  
+  
+  
+  
 ## 🔹 Summary
 Senior iOS Engineer with over 12 years of experience. Proven leadership in guiding teams, overseeing feature development, and maintaining high-quality standards. Expertise in iOS development, with knowledge in backend technologies, particularly Ruby on Rails, from earlier in my career. Skilled in building maintainable, scalable systems and collaborating with cross-functional teams, including product, design, QA, and backend. Passionate about software craftsmanship and clean code.
 
