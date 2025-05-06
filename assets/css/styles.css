@@ -4,13 +4,6 @@ body {
     color: #333;
 }
 
-img {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-}
-
 h1, h2, h3 {
     color: #0066cc;
 }
@@ -24,3 +17,11 @@ a:hover {
     text-decoration: underline;
 }
 
+img:first-of-type {
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 20px auto;
+}

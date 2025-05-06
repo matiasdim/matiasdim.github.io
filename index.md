@@ -1,8 +1,13 @@
 ![Matías Gil](/assets/images/profile.jpg)
 
-**Senior iOS Engineer** 📍 Remote - Colombia
-📧 matiadim3@gmail.com
-🌐 [linkedin.com/in/matiasdim](https://www.linkedin.com/in/matiasdim/)
+# Matías Gil
+
+**Senior Software Developer**
+
+📍 Remote - Colombia
+🌐 [LinkedIn](https://linkedin.com/in/matiasgil)  
+🔗 [GitHub](https://github.com/matiasgildev)  
+📧 matias@example.com
 
 ---
 
