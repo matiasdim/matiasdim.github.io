@@ -2,12 +2,12 @@
 
 ![Matías Gil](/assets/images/profile.jpg)
   
+**Senior Software Engineer**  
+  
 📍 Remote - Colombia  
 🌐 [LinkedIn](https://linkedin.com/in/matiasdim)  
 🔗 [GitHub](https://github.com/matiasdim)  
 📧 [Contact me!](mailto:matiasdim3@gmail.com)  
-  
-  
   
   
 ## 🧠 Summary
@@ -23,7 +23,7 @@ Senior iOS Engineer with over 12 years of experience. Proven leadership in guidi
   
   
 ## 💻 Professional Experience
-### **Senior iOS Developer – Fortune 500 Company (via Staff Augmentation)**  
+### **Senior iOS Developer – Fortune 500 Company (via Staff Augmentation - Arionkoder)**  
 _Remote · 2024–Present_  
 - Leading the development of a new high-demand application for a Fortune 500 company, building it by improving processes and leveraging learnings from an existing internal app.
 - Demonstrating strong technical and leadership skills to drive internal initiatives, ensuring the team followed best practices and maintained a clean, high-quality codebase.
@@ -32,7 +32,7 @@ _Remote · 2024–Present_
 - Played a key role in refining product flows and user experiences in collaboration with product and design teams, ensuring adherence to Apple’s Human Interface Guidelines.
 - Actively participated in requirement refinement, identifying potential technical limitations early, and proposing scalable, well-informed solutions to address them efficiently.
 
-### **Senior iOS Developer – Backbase (via Bring Global)**  
+### **Senior iOS Developer – Backbase (via Staff Augmentation - Bring Global)**  
 _Remote · 2020–2023_  
 - Led the iOS team across two digital banking projects in Latin America, using Backbase’s proprietary frameworks and libraries to deliver out-of-the-box functionality with tailored customizations. 
 - Developed full custom features from scratch to meet specific client requirements beyond the base platform.  
@@ -46,7 +46,7 @@ _Grand Rapids, MI · 2016–2017_
 - Developed an iOS prototype app to assist in mite infestation testing within beehives, combining field usability with data collection.  
 - Awarded for **Outstanding Master’s Degree Project**, recognizing the technical and practical impact of the mobile app prototype on real-world apiculture practices.
 
-### **iOS Developer – Cvent (via Mobile Butterfly)**  
+### **iOS Developer – Cvent (via Staff Augmentation - Mobile Butterfly)**  
 _Remote · 2015–2016, 2018-2020_  
 - Contributed to the development and maintenance of some Cvent’s mobile applications, implementing features and improvements within an agile, cross-functional team.  
 - Followed clean code practices and participated in code reviews to ensure consistency and quality across the codebase.  
