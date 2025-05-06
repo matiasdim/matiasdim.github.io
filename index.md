@@ -1,8 +1,3 @@
----
-title: Matías Gil – Senior Software Engineer
-layout: default
----
-
 # Matías Gil
 **Senior iOS Engineer** 📍 Remote | 🌐 [linkedin.com/in/matiasdim](https://www.linkedin.com/in/matiasdim/) | [github.com/matiasdim](https://github.com/matiasdim) 📧 matiadim3@gmail.com
 
