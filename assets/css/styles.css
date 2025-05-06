@@ -17,9 +17,30 @@ a:hover {
     text-decoration: underline;
 }
 
-img {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
+.header-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 40px;
+}
+
+.profile-pic img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.profile-info h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+.profile-info h3 {
+  margin-top: 5px;
+  color: #666;
+}
+
+.profile-info p {
+  margin: 5px 0;
 }

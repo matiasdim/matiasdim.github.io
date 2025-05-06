@@ -1,5 +1,19 @@
-# Matías Gil
-![Matías Gil](/assets/images/profile.jpg)
+<div class="header-container">
+  <div class="profile-pic">
+    <img src="/assets/images/profile.jpg" alt="Matías Gil">
+  </div>
+  <div class="profile-info">
+    <h1>Matías Gil</h1>
+    <h3>Senior Software Developer</h3>
+    <p>📍 Remote | 🌐 <a href="https://linkedin.com/in/matiasgil">LinkedIn</a> | <a href="https://github.com/matiasgildev">GitHub</a></p>
+    <p>📧 matias@example.com</p>
+  </div>
+</div>
+
+
+
+#![Matías Gil](/assets/images/profile.jpg)
+
 **Senior iOS Engineer** 📍 Remote - Colombia
 📧 matiadim3@gmail.com
 🌐 [linkedin.com/in/matiasdim](https://www.linkedin.com/in/matiasdim/)
