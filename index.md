@@ -10,27 +10,24 @@
   
   
 ## 🔹 Summary
-Senior iOS Engineer with over 12 years of experience. Proven leadership in guiding teams, overseeing feature development, and maintaining high-quality standards. Expertise in iOS development, with knowledge in backend technologies, particularly Ruby on Rails, from earlier in my career. Skilled in building maintainable, scalable systems and collaborating with cross-functional teams, including product, design, QA, and backend. Passionate about software craftsmanship and clean code.
-
----
+Senior iOS Engineer with over 12 years of experience. Proven leadership in guiding teams, overseeing feature development, and maintaining high-quality standards. Expertise in iOS development, with knowledge in backend technologies, particularly Ruby on Rails, from earlier in my career. Skilled in building maintainable, scalable systems and collaborating with cross-functional teams, including product, design, QA, and backend. Passionate about software craftsmanship and clean code.  
+  
 
 ## 🔹 Tech Stack
 - **Languages:** Swift, Objective-C, Ruby, Python, JavaScript.
 - **Frameworks:** SwiftUI (and more apple frameworks), Ruby on Rails, React.
 - **Tools:** Git, Xcode, Figma, Jira.
 - **Testing:** XCTest
-- **Practices:** TDD, CI/CD, Clean Architecture, Design Patterns, REST, Clean Code.
-
----
+- **Practices:** TDD, CI/CD, Clean Architecture, Design Patterns, REST, Clean Code.  
+  
 
 ## 🔹 Leadership & Collaboration
 - Led iOS development teams across multiple companies, designing and implementing architectural frameworks to enhance scalability and maintainability, while mentoring junior developers and promoting strong coding practices within the team.
 - Championed cross-functional collaboration by working closely with product managers, designers, Android teams, QA, and backend developers to deliver features working with agile methodologies, ensuring efficient workflows and high-quality output.
 - Actively conducted code reviews, upholding best practices, ensuring consistent code quality, and maintaining high standards across the entire codebase.
 - Performed technical interviews for open positions in my teams.
-- Played a pivotal role in ensuring team alignment by advocating for well-defined architectures, clean code principles, and fostering camaraderie and open communication to successfully drive projects to completion.
-
----
+- Played a pivotal role in ensuring team alignment by advocating for well-defined architectures, clean code principles, and fostering camaraderie and open communication to successfully drive projects to completion.  
+  
 
 ## 🔹 Professional Experience
 
@@ -41,8 +38,7 @@ _Remote · 2024–Present_
 - Fostered team collaboration, providing mentorship and promoting effective communication to ensure smooth project delivery.
 - Worked closely with cross-functional teams, including product managers, backend developers, QA, and designers, to ensure alignment on objectives, timelines, and quality standards, maintaining an organized and cohesive workflow across all departments.
 - Played a key role in refining product flows and user experiences in collaboration with product and design teams, ensuring adherence to Apple’s Human Interface Guidelines.
-- Actively participated in requirement refinement, identifying potential technical limitations early, and proposing scalable, well-informed solutions to address them efficiently. 
-
+- Actively participated in requirement refinement, identifying potential technical limitations early, and proposing scalable, well-informed solutions to address them efficiently.
 
 ### **Senior iOS Developer – Backbase (via Bring Global)**  
 _Remote · 2020–2023_  
@@ -62,9 +58,8 @@ _Grand Rapids, MI · 2016–2017_
 _Remote · 2015–2016, 2018-2020_  
 - Contributed to the development and maintenance of some Cvent’s mobile applications, implementing features and improvements within an agile, cross-functional team.  
 - Followed clean code practices and participated in code reviews to ensure consistency and quality across the codebase.  
-- Collaborated closely with backend, QA, product, and design teams to refine requirements, identify technical limitations, and deliver scalable solutions aligned with business needs.
-
----
+- Collaborated closely with backend, QA, product, and design teams to refine requirements, identify technical limitations, and deliver scalable solutions aligned with business needs.  
+  
 
 ## 🔹 Education
 
