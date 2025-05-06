@@ -18,16 +18,10 @@ a:hover {
 }
 
 img:first-of-type {
-/*    border-radius: 50%;*/
-/*    width: 140px;*/
-/*    height: 140px;*/
-/*    object-fit: cover;*/
-/*    display: block;*/
-/*    margin: 0 auto 20px auto;*/
-    width: 32px;
-    height: 32px;
     border-radius: 50%;
+    width: 140px;
+    height: 140px;
     object-fit: cover;
-    vertical-align: middle;
-    margin-right: 8px;
+    display: block;
+    margin: 0 auto 20px auto;
 }
