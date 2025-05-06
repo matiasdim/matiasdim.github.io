@@ -13,12 +13,14 @@
 ## 🧠 Summary
 Senior iOS Engineer with over 12 years of experience. Proven leadership in guiding teams, overseeing feature development, and maintaining high-quality standards. Expertise in iOS development, with knowledge in backend technologies, particularly Ruby on Rails, from earlier in my career. Skilled in building maintainable, scalable systems and collaborating with cross-functional teams, including product, design, QA, and backend. Passionate about software craftsmanship and clean code.  
   
+  
 ## 🛠️ Tech Stack
 - **Languages:** Swift, Objective-C, Ruby, Python, JavaScript.
 - **Frameworks:** SwiftUI (and more apple frameworks), Ruby on Rails, React.
 - **Tools:** Git, Xcode, Figma, Jira.
 - **Testing:** XCTest
 - **Practices:** TDD, CI/CD, Clean Architecture, Design Patterns, REST, Clean Code.  
+  
   
 ## 💻 Professional Experience
 ### **Senior iOS Developer – Fortune 500 Company (via Staff Augmentation)**  
@@ -50,12 +52,14 @@ _Remote · 2015–2016, 2018-2020_
 - Followed clean code practices and participated in code reviews to ensure consistency and quality across the codebase.  
 - Collaborated closely with backend, QA, product, and design teams to refine requirements, identify technical limitations, and deliver scalable solutions aligned with business needs.  
   
+  
 ## 🤝 Leadership & Collaboration
 - Led iOS teams within cross-functional squads, fostering collaboration with backend, QA, product, and design.
 - Mentored junior developers and encouraged clean architecture practices.
 - Conducted technical interviews and hiring processes to help grow high-quality engineering teams.
 - Championed design system consistency, improving UI quality and developer efficiency across mobile platforms.
 - Facilitated agile ceremonies and sprint planning to align priorities and improve delivery cadence.  
+  
   
 ## 🎓 Education
 ### **MSc. Computer Information Systems**
