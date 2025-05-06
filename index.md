@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="/assets/css/styles.css">
 
 ![Matías Gil](/assets/images/profile.jpg)
+  
 📍 Remote - Colombia  
 🌐 [LinkedIn](https://linkedin.com/in/matiasdim)  
 🔗 [GitHub](https://github.com/matiasdim)  
@@ -9,28 +10,17 @@
   
   
   
-## Summary
+## 🧠 Summary
 Senior iOS Engineer with over 12 years of experience. Proven leadership in guiding teams, overseeing feature development, and maintaining high-quality standards. Expertise in iOS development, with knowledge in backend technologies, particularly Ruby on Rails, from earlier in my career. Skilled in building maintainable, scalable systems and collaborating with cross-functional teams, including product, design, QA, and backend. Passionate about software craftsmanship and clean code.  
   
-
-## Tech Stack
+## 🛠️ Tech Stack
 - **Languages:** Swift, Objective-C, Ruby, Python, JavaScript.
 - **Frameworks:** SwiftUI (and more apple frameworks), Ruby on Rails, React.
 - **Tools:** Git, Xcode, Figma, Jira.
 - **Testing:** XCTest
 - **Practices:** TDD, CI/CD, Clean Architecture, Design Patterns, REST, Clean Code.  
   
-
-## Leadership & Collaboration
-- Led iOS development teams across multiple companies, designing and implementing architectural frameworks to enhance scalability and maintainability, while mentoring junior developers and promoting strong coding practices within the team.
-- Championed cross-functional collaboration by working closely with product managers, designers, Android teams, QA, and backend developers to deliver features working with agile methodologies, ensuring efficient workflows and high-quality output.
-- Actively conducted code reviews, upholding best practices, ensuring consistent code quality, and maintaining high standards across the entire codebase.
-- Performed technical interviews for open positions in my teams.
-- Played a pivotal role in ensuring team alignment by advocating for well-defined architectures, clean code principles, and fostering camaraderie and open communication to successfully drive projects to completion.  
-  
-
-## Professional Experience
-
+## 💻 Professional Experience
 ### **Senior iOS Developer – Fortune 500 Company (via Staff Augmentation)**  
 _Remote · 2024–Present_  
 - Leading the development of a new high-demand application for a Fortune 500 company, building it by improving processes and leveraging learnings from an existing internal app.
@@ -60,12 +50,17 @@ _Remote · 2015–2016, 2018-2020_
 - Followed clean code practices and participated in code reviews to ensure consistency and quality across the codebase.  
 - Collaborated closely with backend, QA, product, and design teams to refine requirements, identify technical limitations, and deliver scalable solutions aligned with business needs.  
   
-
-## Education
-
-### **MSc. Computer Information Systems**  
+## 🤝 Leadership & Collaboration
+- Led iOS teams within cross-functional squads, fostering collaboration with backend, QA, product, and design.
+- Mentored junior developers and encouraged clean architecture practices.
+- Conducted technical interviews and hiring processes to help grow high-quality engineering teams.
+- Championed design system consistency, improving UI quality and developer efficiency across mobile platforms.
+- Facilitated agile ceremonies and sprint planning to align priorities and improve delivery cadence.  
+  
+## 🎓 Education
+### **MSc. Computer Information Systems**
 _Grand Valley State University – Michigan, USA · 2016–2017_  
-- Graduated with honors.  
+- Graduated with honors.
 - Awarded for **Outstanding Master’s Degree Project** for the development of a mobile iOS app supporting beehive health monitoring and data collection.
 
 ### **Bachelor’s Degree in Computer Engineering**  
