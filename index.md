@@ -1,7 +1,6 @@
 <link rel="stylesheet" href="/assets/css/styles.css">
 
-![Matías Gil](/assets/images/profile.jpg) **Matías Gil – Senior Software Engineer**
-
+![Matías Gil](/assets/images/profile.jpg)
 📍 Remote - Colombia  
 🌐 [LinkedIn](https://linkedin.com/in/matiasgil)  
 🔗 [GitHub](https://github.com/matiasgildev)  
