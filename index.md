@@ -65,6 +65,9 @@ _Remote · 2015–2016, 2018-2020_
 - 🇨🇴 **Spanish**: Native
 - 🇺🇸 **English**: Professional proficiency
 - 🇧🇷 **Portuguese**: Basic  
+
+> Actively work in English-speaking teams. Comfortable in technical discussions and interviews.
+
   
   
 ## 🎓 Education
