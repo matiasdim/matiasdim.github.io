@@ -61,11 +61,17 @@ _Remote · 2015–2016, 2018-2020_
 - Facilitated agile ceremonies and sprint planning to align priorities and improve delivery cadence.  
   
   
+## 🌍 Languages
+- 🇨🇴 **Spanish**: Native
+- 🇺🇸 **English**: Professional proficiency
+- 🇧🇷 **Portuguese**: Basic  
+  
+  
 ## 🎓 Education
 ### **MSc. Computer Information Systems**
 _Grand Valley State University – Michigan, USA · 2016–2017_  
 - Graduated with honors.
-- Awarded for **Outstanding Master’s Degree Project** for the development of a mobile iOS app supporting beehive health monitoring and data collection.
+- Awarded for **Outstanding Master’s Degree Project** for the development of a mobile iOS prototype app [supporting beehive health monitoring](https://beeculture.com/the-mitecheck-app/) and data collection.
 
 ### **Bachelor’s Degree in Computer Engineering**  
 _Universidad EIA - Medellín, Colombia · 2007-2012_  
