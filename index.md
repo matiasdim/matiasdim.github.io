@@ -6,8 +6,8 @@
   
 📍 Remote - Colombia  
 🌐 [LinkedIn](https://linkedin.com/in/matiasdim)  
-🔗 [GitHub](https://github.com/matiasdim)  
-📧 [Contact me!](mailto:matiasdim3@gmail.com)  
+🔗 [GitHub](https://github.com/matiasdim)
+📧 Contact me! [matiasdim3@gmail.com](mailto:matiasdim3@gmail.com)  
   
   
 ## 🧠 Summary
