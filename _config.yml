@@ -1,9 +1,7 @@
 title: "Matías Gil – Senior Software Engineer"
-#description: "A software developer with over 12 years of experience."
+description: "A software developer with over 12 years of experience."
 theme: minima
 stylesheet: "/assets/css/styles.css"
-author:
-    name: Matías Gil
-    email: matiadim3@gmail.com
-footer:
-    text: "© 2025 – Built with ❤️ and Markdown"
+author: "Matias Gil-Echavarría"
+github_username: matiasdim
+
