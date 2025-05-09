@@ -4,3 +4,8 @@ theme: minima
 stylesheet: "/assets/css/styles.css"
 author: "Matias Gil-Echavarría"
 github_username: matiasdim
+defaults:
+  - scope:
+      path: ""
+    values:
+      author: "Matías"
