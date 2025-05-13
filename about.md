@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 <link rel="stylesheet" href="/assets/css/styles.css">
