@@ -1,6 +1,5 @@
 ---
-layout: page
-title: About Me
+layout: default
 ---
 
 <link rel="stylesheet" href="/assets/css/styles.css">
