@@ -1,4 +1,5 @@
 ---
 layout: post
 ---
-Testing my first post!
+
+This blog is built with markdown, using Jekyll and github pages!

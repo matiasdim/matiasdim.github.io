@@ -2,7 +2,7 @@ title: "Matías Gil"
 description: "2025 – Built with ❤️ and Markdown"
 theme: minima
 stylesheet: "/assets/css/styles.css"
-author: "Matias Gil-Echavarría"
+#author: "Matias Gil-Echavarría"
 github_username: matiasdim
 defaults:
   - scope:
