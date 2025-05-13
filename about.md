@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About me
 ---
 
 <link rel="stylesheet" href="/assets/css/styles.css">
