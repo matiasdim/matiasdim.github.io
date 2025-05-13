@@ -11,3 +11,8 @@ defaults:
       author: "Matías"
 plugins:
   - jekyll-feed
+
+collections:
+  posts:
+    output: true
+    permalink: /:title/
