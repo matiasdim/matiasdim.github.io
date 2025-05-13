@@ -9,3 +9,5 @@ defaults:
       path: ""
     values:
       author: "Matías"
+plugins:
+  - jekyll-feed
