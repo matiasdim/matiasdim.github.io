@@ -6,7 +6,7 @@ tags: [SOLID, OOP, Swift, srp]
 author: "Matias Gil"
 ---
 
-###### [Back to main SOLID blog post](/2025-05-13-SOLID-Principles-of-Object-Oriented-Programming.html)
+##### [Back to main SOLID blog post](/2025/05/13/SOLID-Principles-of-Object-Oriented-Programming.html)
 
 This is about the separation of concerns. A class should only have a single responsibility.  
 Another way to define this is that "a class or module should have one, and only one, reason to be changed". This is because the class is supposed to have, as mentioned, only one responsibility. This will lead us to have a better understanding of objects' responsibilities, it will be easier to find bugs, and also our code will be way less error-prone when changes have to be done.
