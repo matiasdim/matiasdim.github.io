@@ -2,7 +2,6 @@
 layout: post
 title: "SOLID Principles of Object-Oriented Programming"
 date: 2025-05-13
-categories: [programming, principles]
 tags: [SOLID, OOP, Swift]
 author: "Matias Gil"
 ---

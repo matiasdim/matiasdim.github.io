@@ -2,7 +2,6 @@
 layout: post
 title: "Single Responsibility Principle"
 date: 2025-05-13
-categories: [programming, principles]
 tags: [SOLID, OOP, Swift, srp]
 author: "Matias Gil"
 ---
