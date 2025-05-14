@@ -12,7 +12,7 @@ title: About me
 📍 Remote - Colombia  
 🌐 [LinkedIn](https://linkedin.com/in/matiasdim){:target="_blank"}  
 🔗 [GitHub](https://github.com/matiasdim){:target="_blank"}  
-📧 [matiasdim3@gmail.com](mailto:matiasdim3@gmail.com)!    
+📧 [matiasdim3@gmail.com](mailto:matiasdim3@gmail.com)  
   
   
 ## 🧠 Summary
