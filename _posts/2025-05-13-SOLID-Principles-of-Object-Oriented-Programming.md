@@ -10,7 +10,7 @@ author: "Matias Gil"
 
 These are design principles to always keep in mind when coding to make better software. They make software more maintainable, flexible, and testable.
 
-- **S**: [Single Responsibility Principle](/2025-05-13-Single-Responsibility-Principle/)
+- **S**: [Single Responsibility Principle](/2025-05-13-Single-Responsibility-Principle.html)
 - **O**: Open-Closed Principle
 - **L**: Liskov Substitution Principle
 - **I**: Interface Segregation Principle

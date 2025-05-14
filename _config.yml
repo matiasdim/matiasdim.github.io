@@ -11,3 +11,4 @@ defaults:
       author: "Matías"
 plugins:
   - jekyll-feed
+permalink: /:year/:month/:day/:title.html
